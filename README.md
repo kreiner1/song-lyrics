@@ -1,13 +1,7 @@
-# Web Starter
+# Lyrics for Miley Cyrus *The Climb*
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
+> It's the Climb
 
-
-> Computers are dumb. Humans make them smart.
-
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## Citations
+* [Genius](https://genius.com/2811448?)
+* [Google Fonts](https://fonts.google.com)
