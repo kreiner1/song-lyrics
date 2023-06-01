@@ -1,6 +1,6 @@
 # Lyrics for Miley Cyrus *The Climb*
 
-> It's the Climb
+> It's all about The Climb
 
 ## Citations
 * [Genius](https://genius.com/2811448?)
