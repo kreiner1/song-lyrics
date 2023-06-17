@@ -4,10 +4,10 @@
 
 /* Variables from Style Tile */
 :root {
-  --color1 : orange;
-  --color2 : brown;
-  --headingFont : 'Smokum', cursive;
-  --bodyFont : 'Pacifico', cursive;
+  --color1 : rgb(240, 236, 109);
+  --color2 : rgb(214, 214, 214);
+  --headingFont : 'LATO';
+  --bodyFont : 'BalooThambi2';
 }
 
 h1 {
