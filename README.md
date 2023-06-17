@@ -1,7 +1,7 @@
-# Lyrics for Miley Cyrus *The Climb*
+# Lyrics for EDEN *Balling*
 
-> It's all about The Climb
+>
 
 ## Citations
-* [Genius](https://genius.com/2811448?)
+* [Genius](https://genius.com/Eden-balling-lyrics)
 * [Google Fonts](https://fonts.google.com)
